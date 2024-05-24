@@ -1,0 +1,1 @@
+# data-platform-point-condition-type-sql
